@@ -1,4 +1,4 @@
-# Nashville Housing Data Cleaning with SQL
+# Data Cleaning Project with SQL
 Hello! I'm an aspiring data analyst in the field of supply chain.
 This is the second project I did in SQL (if you haven't see my Starbucks file)
 **Feedback and suggestions are always welcome! **
